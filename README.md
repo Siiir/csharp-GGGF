@@ -1,6 +1,5 @@
-
 # 🐇 **General GG Fibonacci (GGGF)** 🐇
-**Generalized** **generator** of **gigantic** **Fibonacci** numbers.
+**General**ized **G**enerator of **G**igantic **Fibonacci** numbers.  
 
 ## 🤔 **Want to know what the 1,000,000th Fibonacci number is?** 🤔
 **We've got you covered!** Not that you can see it with your small eyes, but it makes an impression by overflowing your text buffer.
