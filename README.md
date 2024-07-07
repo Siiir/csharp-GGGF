@@ -11,7 +11,7 @@ Try our product!
 ### Explaination of Negabonacci
 There actually exists a mathematical relation:
 
-∃ GFib(x) ∀ k∈Z ( [k ≥ 0 ==> GFib(k) = Fib(k)] and [k < 0 ==> GFib(k) = NFib(k)] and [GFib(k+2) = GFib(k+1)+GFib(k)] ),
+∃ GFib(x) ∀ k∈Z ( [k ≥ 0 &rArr; GFib(k) = Fib(k)] &and; [k < 0 &rArr; GFib(k) = NFib(k)] &and; [GFib(k+2) = GFib(k+1)+GFib(k)] ),
 where:  
 * Fib –– **Fib**onacci –– Classic **Fib**onacci function
 * GFib –– **G**eneral**Fib**onacci –– **G**eneralized **Fib**onacci function
